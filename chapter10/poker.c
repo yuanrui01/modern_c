@@ -94,6 +94,7 @@ void read_cards(void) {
     }
 }
 
+// add comment
 void analyze_hand(void) 
 {
     int num_consec = 0;
