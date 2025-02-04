@@ -23,6 +23,6 @@ int split(int a[], int low, int high) {
         if (low >= high) break;
         a[high--] = a[low];
     }
-    a[high] = part_element;
-    return high;
+    a[low] = part_element;
+    return low;
 }
