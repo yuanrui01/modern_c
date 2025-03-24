@@ -1,0 +1,2 @@
+Argument count: 1
+argv[0]: ./test
